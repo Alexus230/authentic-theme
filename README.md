@@ -1,17 +1,17 @@
 ## Contents
-* [Changelog](https://github.com/qooob/authentic-theme/blob/master/CHANGELOG.md)
+* [Changelog](https://github.com/qooob/authentic-theme/blob/18/CHANGELOG.md)
 * [Download (18.49)![](https://rostovtsev.ru/pub/media/icons/download-23x14.png)](https://github.com/qooob/authentic-theme/releases/download/18.49/authentic-theme-18.49.wbt.gz)
 * [About](#about)
 * [FAQ](#faq)
 * [Troubleshoot](#troubleshoot)
 * [Development](#development)
 * [Donation![](https://rostovtsev.ru/pub/media/icons/heart-23x15.png)](https://github.com/qooob/authentic-theme#license)
-* [License](https://github.com/qooob/authentic-theme/blob/master/LICENSE)
+* [License](https://github.com/qooob/authentic-theme/blob/18/LICENSE)
 
 ## About
 **Authentic** is [Webmin/](https://github.com/webmin/webmin)[Usermin/](https://github.com/webmin/usermin)[Virtualmin/](https://www.virtualmin.com/)[Cloudmin](http://webmin.com/cloudmin.html) theme based on [Bootstrap](https://github.com/twbs/bootstrap) and [Font Awesome](https://github.com/FortAwesome/Font-Awesome) that is made with _love_. It uses [CodeMirror](http://codemirror.net/) to highlight config files and show line numbers, when editing manually, [CKEditor](http://ckeditor.com/) to compose comprehensive HTML based messages and [DataTables](http://www.datatables.net/) to add advanced interaction controls to modules' tables. Theme runs using latest releases of dependent software (mentioned above), supporting all in-built modules (even ancient ones) and third-party modules, including [ConfigServer Security & Firewall](http://configserver.com/cp/csf.html).
 
-[![ScreenShot](https://raw.githubusercontent.com/qooob/authentic-theme/master/images/screenshot.png)](http://youtu.be/f_oy3qX2GXo)
+[![ScreenShot](https://raw.githubusercontent.com/qooob/authentic-theme/18/images/screenshot.png)](http://youtu.be/f_oy3qX2GXo)
 ![](https://rostovtsev.ru/pub/media/screenshots/screenshot-pallets-1710.png)
 ![](https://rostovtsev.ru/pub/media/screenshots/screenshot-content-page-1840.png)
 
@@ -55,7 +55,7 @@
 ### FAQ
 
 #### PGP signature verification
-After adding theme's [_public key_](https://github.com/qooob/authentic-theme/blob/master/THEME.pgp) to your keyring, you can check that the downloaded file that you want to install is original and unmodified, by verifying its signature with running `gpg --verify authentic-theme-18.49.wbt.gz-sig.asc authentic-theme-18.49.wbt.gz` command in the console.
+After adding theme's [_public key_](https://github.com/qooob/authentic-theme/blob/18/THEME.pgp) to your keyring, you can check that the downloaded file that you want to install is original and unmodified, by verifying its signature with running `gpg --verify authentic-theme-18.49.wbt.gz-sig.asc authentic-theme-18.49.wbt.gz` command in the console.
 
 #### How to update _Authentic_ Theme manually?
 Theme can be easily updated manually. Please make sure that you have `git` command installed on your system. Using console, do the following:
@@ -123,6 +123,7 @@ Theme only re-renders this module and adds support for code highlight, when edit
 * [miyorineko](https://github.com/miyorineko), [dreista](https://github.com/Dreista) (Chinese)
 * [jlndk](https://github.com/jlndk) (Danish)
 * [stuchy3](https://github.com/stuchy3) (Czech)
+* [Samsul Ma'arif](https://github.com/samsulmaarif) (Indonesian)
 
 ### Donation
  You can make a difference. Donations show appreciation. Your donations would help me to pay my bills and _excite future development_.
@@ -135,4 +136,4 @@ Theme only re-renders this module and adds support for code highlight, when edit
 
 ### License
 
-_Authentic_ Theme is released under the [MIT License](https://github.com/qooob/authentic-theme/blob/master/LICENSE)
+_Authentic_ Theme is released under the [MIT License](https://github.com/qooob/authentic-theme/blob/18/LICENSE)
